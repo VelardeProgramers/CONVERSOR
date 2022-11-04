@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CONVERSOR", "CONVERSOR\CONVERSOR.pyproj", "{24F72CB3-285D-4D68-BEC5-44E98E9AD373}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24F72CB3-285D-4D68-BEC5-44E98E9AD373}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24F72CB3-285D-4D68-BEC5-44E98E9AD373}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A53E23B0-798D-4485-A662-116C1B0AFABF}
+	EndGlobalSection
+EndGlobal
